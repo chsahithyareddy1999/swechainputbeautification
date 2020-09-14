@@ -1,20 +1,7 @@
 # HOW CAN I CONTRIBUTE
 
 
-# CONTRIBUTING(team)
-
-1)CH.SAHITHYA REDDY(TEAM LEAD)
-2)B.MANISHA
-3)A.RAJESH RAM
-4)PRANITHA
-5)JAHNSI
-6)LASYAPRIYA
-7)RAM PRASAD
-8)AASHRITHA
-9)SAMAKIYA
-10)HARISH
-
-# contributed
+# CONTRIBUTED
 
 currently
 we started working on beautification  and we added background image,increased the swecha logo size,added navigation bars ,we changed textarea size
@@ -76,12 +63,4 @@ Bootstrap also gives you the ability to easily create responsive designs
 JAVASCRIPT
 JavaScript is the world's most popular programming language.
 JavaScript is the programming language of the Web.
-JavaScript is easy to learn.
-
-# TEAM CONTRIBUTIONS:
-1)CH.SAHITHYA REDDY- INCREASING LOGO SIZE,INTRODUCING NAVIGATION BARS(bootstrap)
-2)RAJESH RAJ-CSS CODING, NAVIGATION BARS
-3)JAHNSI -BACKGROUND IMAGE
-4)MANISHA - CHANGE TEXT AREA
-5)LASYA PRIYA-FONT STYLE AND SIZE
-6)RAMPRASAD,AASHRITHA,SAMAIKYA,HARISH-GATHERING OF CODE FROM DIFFERENT DATA SOURCES
+JavaScript is easy to learn
